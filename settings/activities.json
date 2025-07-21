@@ -1,9 +1,9 @@
 {
   "general": {
-    "experimentID": "eR8ENvJPgQth",
-    "app_name": "O-ELIDDI",
+    "experimentID": "Ommsy1eEeyfF",
+    "app_name": "TimeUseData",
     "version": "1.0.0",
-    "author": "John Doe",
+    "author": "JordanLFox",
     "language": "en",
     "instructions": true,
     "primary_redirect_url": "pages/thank-you.html",
